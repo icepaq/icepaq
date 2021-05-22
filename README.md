@@ -4,7 +4,7 @@ My name is Anton. I mostly work with backend frameworks such as Spring and Expre
 
 A random fact about me is I absolutely **LOVE** mango juice and sushi.
 
-The best way to contact me would be by adding me on [https://www.linkedin.com/in/antonre/](LinkedIn).
+The best way to contact me would be by adding me on (https://www.linkedin.com/in/antonre/) [LinkedIn].
 
 Take a look at some of my pinned projects down below!
 
