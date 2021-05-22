@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey 👋
+
+My name is Anton. I mostly work with backend frameworks such as Spring and Express. Although I love to try new things out. I'll sometimes work with some front-end projects, the VSCode API or even my Arduino!
+
+A random fact about me is I absolutely **LOVE** mango juice and sushi.
+
+The best way to contact me would be by adding me on (https://www.linkedin.com/in/antonre/)[LinkedIn].
+
+Take a look at some of my pinned projects down below!
 
 <!--
 **icepaq/icepaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
