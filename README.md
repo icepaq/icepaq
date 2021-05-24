@@ -1,6 +1,6 @@
 ### Hey 👋
 
-My name is Anton. I mostly work with backend frameworks such as Spring and Express. Although I love to try new things out. I'll sometimes work with some front-end projects, the VSCode API or even my Arduino!
+My name is Anton. I mostly work with backend frameworks such as Spring, Next and Express. However I'm always learning new things!
 
 A random fact about me is I absolutely **LOVE** mango juice and sushi.
 
