@@ -4,11 +4,13 @@ My name is Anton. I mostly work with backend frameworks such as Spring, Next and
 
 A random fact about me is I absolutely **LOVE** mango juice and sushi.
 
+Working on a server management [platform](http://controlserverhosting.com/)
+
 The best way to contact me would be by adding me on [LinkedIn](https://www.linkedin.com/in/antonre/).
 
 Take a look at some of my pinned projects down below!
 
-Working on a server management [platform](http://controlserverhosting.com/)
+
 
 <!--
 **icepaq/icepaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
