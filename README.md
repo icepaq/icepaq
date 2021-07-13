@@ -2,7 +2,7 @@
 
 My name is Anton. I mostly work with backend frameworks such as Spring, Next and Express. However I'm always learning new things!
 
-A random fact about me is I absolutely **LOVE** mango juice and sushi.
+A random fact about me is I absolutely **LOVE** mango juice 🥭 and sushi 🍣.
 
 Working on a server management [platform](http://controlserverhosting.com/)
 
