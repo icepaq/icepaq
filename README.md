@@ -1,8 +1,10 @@
 ### Hey 👋
 
-My name is Anton. I'm a fullstack developer working with Spring Boot and Node.
+My name is Anton. I love writing software! 
 
-A random fact about me is I absolutely **LOVE** mango juice 🥭 and sushi 🍣.
+Take a look at my projects below. 
+
+If you would like to contact me, open an issue in this icepaq/icepaq repository. I check GitHub once a day.
 
 <!--
 **icepaq/icepaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
