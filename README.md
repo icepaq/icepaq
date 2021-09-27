@@ -4,10 +4,6 @@ My name is Anton. I'm a fullstack developer working with Spring Boot and Node.
 
 A random fact about me is I absolutely **LOVE** mango juice 🥭 and sushi 🍣.
 
-Working on a server management [platform](http://controlserverhosting.com/).
-
-The best way to contact me would be by adding me on [LinkedIn](https://www.linkedin.com/in/antonre/).
-
 <!--
 **icepaq/icepaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
