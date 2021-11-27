@@ -1,6 +1,6 @@
 ### Hey 👋
 
-My name is Anton. I love writing software! 
+My name is Anton.
 
 Take a look at my projects below. 
 
