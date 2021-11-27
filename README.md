@@ -2,9 +2,9 @@
 
 My name is Anton.
 
-Take a look at my projects below. 
+I love software engineering because when combined with other skills, you can make anything.
 
-If you would like to contact me, open an issue in this icepaq/icepaq repository. I check GitHub once a day.
+I'm interested in just about everything from telecom to DeFi to autonomous cars. 
 
 <!--
 **icepaq/icepaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
