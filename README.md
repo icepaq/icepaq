@@ -1,11 +1,10 @@
-### Hey 👋
+### Hello 👋
 
-My name is Anton.
+I'm Anton.
 
 I love software engineering because when combined with other skills, you can make anything.
 
-I'm interested in just about everything from telecom to DeFi to autonomous cars. 
-
+I mostly build web applications. However, have been getting into the blockchain space recently.
 <!--
 **icepaq/icepaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
