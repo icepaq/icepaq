@@ -2,9 +2,9 @@
 
 I'm Anton.
 
-I love software engineering because when combined with other skills, you can make anything.
+I'm a software engineer specializing in full stack and blockchain development. I am a huge open source fanatic and love to get involved in the very projects and tools I use every day. 
 
-I mostly build web applications. However, have been getting into the blockchain space recently.
+I'm always down for a chat about tech. Feel free to add me on [LinknedIn](https://www.linkedin.com/in/antonre/).
 <!--
 **icepaq/icepaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
