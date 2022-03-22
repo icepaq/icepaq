@@ -5,7 +5,8 @@ I'm Anton.
 My Interests:
 - Blockchain / Web3
 - Fintech
-- Medical tech
+- Educational Tech
+- Telecom
 
 I'm a big open source fanatic and love to get involved in the very tools and projects that I use on a daily basis.
 
