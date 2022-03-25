@@ -9,8 +9,6 @@ My Interests:
 - Telecom
 
 I'm a big open source fanatic and love to get involved in the very tools and projects that I use on a daily basis.
-
-Feel free to add me on [LinkedIn](https://www.linkedin.com/in/antonre/).
 <!--
 **icepaq/icepaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
