@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm Anton.
+My name is Anton. I'm a software engineer currently working in the blockchain / DeFi (decentralized finance) sector.
 
 My Interests:
 - Blockchain / Web3
