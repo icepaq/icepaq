@@ -8,7 +8,7 @@ Past Experience in
 
 
 
-🩹 I previously interned at a medical tech company where I helped fix inconsistencies in how data is handled in the Canadian healthcare system.
+🩹 I previously interned at a health tech company where I fixed inconsistencies in how data is handled in the Canadian healthcare system.
 
 📈 After that, I worked on a staking startup. The goal was to allow anyone regardless of technical skill to stake their crypto assets.
 
