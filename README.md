@@ -12,7 +12,7 @@ Past Experience in
 
 📈 After that, I worked on a staking startup. The goal was to allow anyone regardless of technical skill to stake their crypto assets.
 
-🔧 Currently working on community building tools for another Web3 startup.
+🔧 Currently working at a Web3 startup on community building tools and smart contracts.
 
 📖 Also helping build the platform and tools used to run the annual Concordia University hackathon.
 
