@@ -9,7 +9,7 @@ Past Experience building applications in
 
 __In the Past__
 
-🩹 I previously interned in health tech where I fixed inconsistencies in how data is handled in the Canadian healthcare system.
+🩹 I interned in health tech where I fixed inconsistencies in how data is handled in the Canadian healthcare system.
 
 📈 After that, I worked on a staking startup. The goal was to allow anyone regardless of technical skill to stake their crypto assets.
 
