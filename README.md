@@ -1,9 +1,9 @@
 Hi👋 my name is Anton. I'm a software engineer based out of Toronto, Canada.
 
-Past Experience in
+Past Experience building applications in
 - Blockchain / Web3
 - Fintech
-- Educational Tech
+- Retail Software
 - Telecom 
 
 
@@ -16,6 +16,7 @@ __In the Past__
 🔧 Next, I started working at a Web3 company building a layer of trust for DAOs and other blockchain protocols.
 
 __Currently__
+
 📖 Helping build the platform and tools used to run the annual Concordia University hackathon.
 
 💐 The founder of [scentsubs.com](scentsubs.com). A subscription service that sends you a new fragrance each month.
