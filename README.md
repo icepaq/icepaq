@@ -7,14 +7,18 @@ Past Experience in
 - Telecom 
 
 
+__In the Past__
 
 🩹 I previously interned in health tech where I fixed inconsistencies in how data is handled in the Canadian healthcare system.
 
 📈 After that, I worked on a staking startup. The goal was to allow anyone regardless of technical skill to stake their crypto assets.
 
-🔧 Currently working at a Web3 startup on community building tools and smart contracts.
+🔧 Next, I started working at a Web3 company building a layer of trust for DAOs and other blockchain protocols.
 
-📖 Also helping build the platform and tools used to run the annual Concordia University hackathon.
+__Currently__
+📖 Helping build the platform and tools used to run the annual Concordia University hackathon.
+
+💐 The founder of [scentsubs.com](scentsubs.com). A subscription service that sends you a new fragrance each month.
 
 🤝 I'm constantly getting involved in open source projects, as I love to work on the very tools and projects that I use on a daily basis.
 
