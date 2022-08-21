@@ -19,7 +19,7 @@ __Currently__
 
 📖 Helping build the platform and tools used to run the annual Concordia University hackathon.
 
-💐 The founder of [scentsubs.com](scentsubs.com). A subscription service that sends you a new fragrance each month.
+💐 The founder of [scentsubs.com](https://scentsubs.com). A subscription service that sends you a new fragrance each month.
 
 🤝 I'm constantly getting involved in open source projects, as I love to work on the very tools and projects that I use on a daily basis.
 
