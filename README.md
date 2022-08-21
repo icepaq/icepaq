@@ -13,7 +13,7 @@ __In the Past__
 
 📈 After that, I worked on a staking startup. The goal was to allow anyone regardless of technical skill to stake their crypto assets.
 
-🔧 Next, I started working at a Web3 company building a layer of trust for DAOs and other blockchain protocols.
+🔧 Most recently, I worked at a Web3 company as a software engineer building a layer of trust for DAOs and other blockchain protocols.
 
 __Currently__
 
@@ -21,7 +21,7 @@ __Currently__
 
 💐 The founder of [scentsubs.com](https://scentsubs.com). A subscription service that sends you a new fragrance each month.
 
-🤝 I'm constantly getting involved in open source projects, as I love to work on the very tools and projects that I use on a daily basis.
+🤝 Constantly getting involved in open source projects. I love to work on the very tools and projects that I use on a daily basis.
 
 <!--
 **icepaq/icepaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
