@@ -17,8 +17,7 @@ __In the Past__
 
 __Currently__
 
-💐 The founder of [scentsubs.com](https://scentsubs.com). A subscription service that sends you a new fragrance each month.
-
+💐 The founder of [icyl.ink](https://icyl.ink) a link in bio platform.
 🤝 Constantly getting involved in open source projects. I love to work on the very tools and projects that I use on a daily basis.
 
 <!--
