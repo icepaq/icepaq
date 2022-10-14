@@ -17,7 +17,8 @@ __In the Past__
 
 __Currently__
 
-💐 The founder of [icyl.ink](https://icyl.ink) a link in bio platform.
+🔗 The founder of [icyl.ink](https://icyl.ink) a link in bio platform.
+
 🤝 Constantly getting involved in open source projects. I love to work on the very tools and projects that I use on a daily basis.
 
 <!--
