@@ -13,7 +13,7 @@ __In the Past__
 
 📈 After that, I worked on a staking startup. The goal was to allow anyone regardless of technical skill to stake their crypto assets.
 
-🔧 Most recently, I worked at a Web3 company as a software engineer building a layer of trust for DAOs and other blockchain protocols.
+🌐 Most recently, I worked at a Web3 company as a software engineer building a layer of trust for DAOs and other blockchain protocols.
 
 __Currently__
 
