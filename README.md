@@ -17,7 +17,7 @@ __In the Past__
 
 __Currently__
 
-🔗 The founder of [icyl.ink](https://icyl.ink) a link in bio platform.
+🎨 Working at a seed stage startup building creative video tools for education and corporate.
 
 🤝 Constantly getting involved in open source projects. I love to work on the very tools and projects that I use on a daily basis.
 
