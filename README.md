@@ -19,7 +19,8 @@ __Currently__
 
 🎨 Working at a seed stage startup building creative video tools for education and corporate.
 
-🤝 Constantly getting involved in open source projects. I love to work on the very tools and projects that I use on a daily basis.
+🤝 Constantly getting involved in open source projects. I love to work on the very tools and projects that I use on a daily basis. I help maintain [Drift](https://drift.lol/), VSCode and many more!
+
 
 <!--
 **icepaq/icepaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
