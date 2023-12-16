@@ -1,12 +1,5 @@
 Hi👋 my name is Anton. I'm a software engineer based out of Toronto, Canada.
 
-Past Experience building applications in
-- Blockchain / Web3
-- Fintech
-- Retail Software
-- Telecom 
-
-
 __In the Past__
 
 🩹 I interned at one of Canada's top [EMR](https://www.forbes.com/advisor/business/software/what-is-an-emr/) companies where I fixed inconsistencies in how data is handled in the Canadian healthcare system.
