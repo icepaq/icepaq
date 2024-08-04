@@ -10,7 +10,7 @@ __In the Past__
 
 🎨 Worked at [Montra](http://montra.com/) building video processing pipelines for an online video editor
 
-📊 Built an AI-powered automated bookkeeping platform. This was my first real startup. After four months I decided to close the doors to focus on companies that better aligned with my experience.
+📊 Built an AI-powered automated bookkeeping platform. This was my first real startup. After five months I decided to close the doors to focus on companies that better aligned with my experience.
 
 
 __Currently__
