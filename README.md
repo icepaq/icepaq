@@ -4,9 +4,7 @@ __In the Past__
 
 🩹 I interned at QHR, one of Canada's top healthcare-tech companies
 
-📈 Built a crypto staking startup
-
-🌐 Spent the summer with Ante Labs, writing smart contracts
+🌐 Interned at Ante Labs, writing Ethereum smart contracts
 
 🎨 Worked at [Montra](http://montra.com/) building video processing pipelines for an online video editor
 
