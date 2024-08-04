@@ -2,7 +2,7 @@ Hi👋 my name is Anton. I'm a software engineer based out of Toronto, Canada.
 
 __In the Past__
 
-🩹 I interned at one of Canada's top [EMRs](https://www.forbes.com/advisor/business/software/what-is-an-emr/)
+🩹 I interned at QHR, one of Canada's top healthcare-tech companies
 
 📈 Built a crypto staking startup
 
