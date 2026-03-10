@@ -1,6 +1,6 @@
 Hi👋 I'm a software engineer based out of Toronto, Canada. 
 
-I love gaslighting browsers.
+I gaslight browsers for a livilng.
 
 <!--
 **icepaq/icepaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
