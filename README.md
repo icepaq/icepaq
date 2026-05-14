@@ -2,6 +2,8 @@ Hi👋 I'm a software engineer based out of Toronto, Canada.
 
 Professional browser gaslighter @ Clover Labs
 
+Primary maintainer of [Camoufox](https://github.com/daijro/camoufox)
+
 <!--
 **icepaq/icepaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
