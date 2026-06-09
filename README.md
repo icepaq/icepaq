@@ -1,6 +1,4 @@
-Hi👋 I'm a software engineer based out of Toronto, Canada. 
-
-Professional browser gaslighter @ Clover Labs
+Browser gaslighter by trade.
 
 Primary maintainer of [Camoufox](https://github.com/daijro/camoufox)
 
