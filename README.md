@@ -1,7 +1,3 @@
-Micro-SaaS operator by day.
-
-Browser automation and security researcher by night.
-
 Primary maintainer of [Camoufox](https://github.com/daijro/camoufox)
 
 <!--
